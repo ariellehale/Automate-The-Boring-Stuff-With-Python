@@ -4,9 +4,9 @@ Projects from Al Sweigart's "Automate the Boring Stuff with Python"
 - Completed: TBD
 
 ## Part 1: Python Programming Basics
-### ~~Python Basics:~~ 
+### ✅ Python Basics 
 - I was already familiar with this section, skimmed it to make sure there wasn't new material I didn't know.
-### ~~Flow Control:~~ 
+### ✅ Flow Control
 - Finally found, and understand, else, elif, while, for statements!
 ### Functions
 - Function call: the function's name followed by parentheses (possib w some # of arguments in between the parentheses)
